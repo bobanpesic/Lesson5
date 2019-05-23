@@ -31,7 +31,27 @@ public class Cat {
 	}
 
 	public static void main(String[] args) {
-		/* Do the following things without changing the Cat class */
+		
+		Cat ketyy = new Cat("maca");
+		
+		ketyy.meow();
+		
+		ketyy.printName();
+	
+	
+		
+		ketyy.kill();
+		ketyy.kill();
+		ketyy.kill();
+		ketyy.kill();
+		ketyy.kill();
+		ketyy.kill();
+		ketyy.kill();
+		ketyy.kill();
+		ketyy.kill();
+		
+		
+		/* Do the folketyy.kill();lowing things without changing the Cat class */
 
 		// 1. Make the Cat meow
 		
